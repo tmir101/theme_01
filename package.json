@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "pull":"npx shopify theme pull -e development",
+    "push":"npx shopify theme push -e development",
+    "dev":"npx shopify theme dev -e development"
+  },
+  "devDependencies": {
+    "@shopify/shopify-api": "^15.0.1"
+  }
+}

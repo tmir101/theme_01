@@ -1,0 +1,15 @@
+0 create store, grab link
+1 locally make a theme.toml > pull store link + env
+2 get CLI working and login into store
+3 using CLI pull the theme (+shopify liquid extension on vscde)
+    know i got folders
+4 run theme locally > npx shopify theme dev -e development
+5 password will be on /store/cholocatey/online_store/preferences
+(store will be running locally now) => entry file is /layout/theme.liquid
+
+changes using web interface theme editor
+will be saved on dev, can be pull locally.
+
+work with repositories > themes page > import > from github.
+then can use git.
+
